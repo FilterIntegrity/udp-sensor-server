@@ -9,6 +9,7 @@ The script dumps data into a local timestamped csv and also a sqlite database fi
 
 # How to use
 By default the server listens on 0.0.0.0 port 56790 - amend as required
+
 Run with the following command:
 
 python udp-server.py
